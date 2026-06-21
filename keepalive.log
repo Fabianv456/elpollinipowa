@@ -1,0 +1,45 @@
+Keepalive iniciado: Sat Jun 13 01:12:20 UTC 2026
+Arrancando playit si no está activo...
+KEEPALIVE Sat Jun 13 01:12:20 UTC 2026
+codespa+    3240 61.0 30.2 12333836 4958704 pts/0 Sl+ 00:38  23:34 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.3  0.0  49136  7072 pts/2    Sl   00:40   0:07 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:17:20 UTC 2026
+codespa+    3240 59.7 30.3 12334864 4967164 pts/0 Sl+ 00:38  26:04 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.3  0.0  49176  7108 pts/2    Sl   00:40   0:09 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:22:20 UTC 2026
+codespa+    3240 57.9 30.3 12334864 4968324 pts/0 Sl+ 00:38  28:08 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.3  0.0  49176  7108 pts/2    Sl   00:40   0:10 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:27:20 UTC 2026
+codespa+    3240 58.7 30.3 12334864 4971556 pts/0 Sl+ 00:38  31:30 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.4  0.0  49180  7120 pts/2    Sl   00:40   0:12 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:32:20 UTC 2026
+codespa+    3240 58.5 30.3 12334864 4973008 pts/0 Sl+ 00:38  34:18 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.4  0.0  49180  7124 pts/2    Sl   00:40   0:14 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:37:20 UTC 2026
+codespa+    3240 60.3 30.3 12335892 4975796 pts/0 Sl+ 00:38  38:22 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.4  0.0  49180  7124 pts/2    Sl   00:40   0:15 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:42:20 UTC 2026
+codespa+    3240 60.7 30.3 12335892 4976224 pts/0 Sl+ 00:38  41:42 /usr/lib/jvm/java-21-openjdk-amd64/bin/java -Xms1000M -Xmx8000M -jar fabric.jar nogui
+root        4858  0.0  0.0  16388  6512 pts/1    S    00:40   0:00 sudo /usr/bin/playitd
+root        4866  0.0  0.0  16388  2304 pts/2    Ss+  00:40   0:00 sudo /usr/bin/playitd
+root        4868  0.4  0.0  49180  7124 pts/2    Sl   00:40   0:17 /usr/bin/playitd
+---
+KEEPALIVE Sat Jun 13 01:47:20 UTC 2026
